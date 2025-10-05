@@ -1,2 +1,2 @@
-# Apna-project-Demo
+# Apnaproject-Demo
 This is my first git repository
